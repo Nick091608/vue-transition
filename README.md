@@ -1,4 +1,4 @@
-# vuexlearn
+# vue-transition
 
 > A Vue.js project
 
