@@ -62,5 +62,15 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ]
+  ],
+  "main": ".postcssrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stackfing/vuexlearn.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stackfing/vuexlearn/issues"
+  },
+  "homepage": "https://github.com/stackfing/vuexlearn#readme"
 }
